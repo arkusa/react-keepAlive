@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import App from './App';
-import { BrowserRouter, Route, Switch, Link } from 'react-router-dom';
+import { HashRouter as BrowserRouter, Route, Switch, Link } from 'react-router-dom';
 
 import R1 from './router/r1';
 import R2 from './router/r2';
